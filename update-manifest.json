@@ -6,6 +6,27 @@
       "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar",
       "fileName": "sodium-fabric-0.5.13+mc1.20.1.jar",
       "sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22"
+    },
+    {
+      "id": "pehkui",
+      "version": "3.8.3+1.14.4-1.21",
+      "downloadUrl": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3%2B1.14.4-1.21.jar",
+      "fileName": "Pehkui-3.8.3+1.14.4-1.21",
+      "sha256": "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
+    },
+    {
+      "id": "origins",
+      "version": "1.10.2+mc1.20.x",
+      "downloadUrl": "https://cdn.modrinth.com/data/3BeIrqZR/versions/oT0CGnBQ/Origins-1.10.2%2Bmc.1.20.x.jar",
+      "fileName": "Origins-1.10.2%2Bmc.1.20.x",
+      "sha256": "ac663bf651482475050d3edf11fa8078e384f5b35e779fb787753ef3ce48ee9e"
+    },
+    {
+      "id": "origins-plus-plus",
+      "version": "2.4",
+      "downloadUrl": "https://cdn.modrinth.com/data/npBe7UbS/versions/84o8YhSo/origins-plus-plus-2.4.jar",
+      "fileName": "origins-plus-plus-2.4",
+      "sha256": "8208900b7cd2c7e4c05d1932db7ed45404f3e9b53dabbfe21bb2aca9fe3e4992"
     }
   ]
 }
